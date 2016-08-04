@@ -1,0 +1,34 @@
+_repo: As-We-Go_3107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Our president -- The newspaper-made man -- Interesting girls --
+  Give the men a chance -- The advent of candor -- The American man -- The electric
+  way -- Can a husband open his wife''s letters? -- A leisure class -- Weather and
+  character -- Born with an ''ego'' -- Juventus mundi -- A beautiful old age -- The
+  attraction of the repulsive -- Giving as a luxury -- Climate and happiness -- The
+  new feminine reserve -- Repose in activity -- Women: Ideal and real -- The art of
+  idleness -- Is there any conversation? -- The tall girl -- The deadly diary -- The
+  whistling girl -- Born old and rich -- The ''old soldier'' -- The island of Bimini
+  -- June.'
+title: As We Go
+url: http://www.gutenberg.org/ebooks/3107
